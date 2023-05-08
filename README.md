@@ -1,7 +1,7 @@
 
 ### Hello 😁! My name's Thiago.
 
-- 🌱 I’m currently learning Web Development, and i want to become a FullStack Developer!
+- 🌱 I’m currently learning Web/API Development, and i want to become a FullStack Developer!
  </a>
  
  
