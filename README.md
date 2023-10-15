@@ -9,7 +9,7 @@ Meu nome é Thiago Ferreira e sou um entusiasta da tecnologia com uma paixão po
 
 ## 🖥️ Algumas tecnologias que utilizo:
 
-<div style="display: inline_block; margin: 0 auto;"><br>
+<div style="display: flex; justify-content: center; align-items: center; margin: 0 auto;"><br>
   <img align="center" alt="Thi-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thi-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Thi-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
