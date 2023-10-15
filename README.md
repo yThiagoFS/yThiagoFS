@@ -1,22 +1,14 @@
-<div align="center">
-  <h1>👋 Olá! Eu sou Thiago.</h1>
-  <p>🌱 Atualmente, estou me dedicando ao desenvolvimento Web/API e aspirando ser um Desenvolvedor FullStack!</p>
-</div>
+<p align="center">
+  <img src="https://your-image-url.com/purple-space-background.jpg" alt="Futuristic Purple Space">
+</p>
 
-<div align="center">
-  <img src="https://github.com/yThiagoFS/yThiagoFS/blob/main/assets/header.gif" alt="Header">
-</div>
+# Bem-vindo ao meu Perfil GitHub 🚀
 
-### 🚀 Tecnologias e Ferramentas
+Olá, viajante do espaço cibernético! 👾 Aqui você encontrará um pouco sobre mim e os projetos que tenho explorado nessa jornada cósmica de desenvolvimento.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
-</div>
+## 🌌 Sobre Mim
+
+Meu nome é Thiago Ferreira e sou um entusiasta da tecnologia com uma paixão por criar coisas incríveis. 👨‍💻 Quando não estou explorando o universo da programação, estou desbravando o vasto cosmos em busca de conhecimento. Acredito que o futuro está nas estrelas, e estou ansioso para contribuir para ele!
 
 ### 📊 Estatísticas
 
@@ -24,19 +16,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yThiagoFS&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas">
 </div>
 
-### 🐍 Snake Animation
+## 📫 Contato
 
-<div align="center">
-  <img src="https://github.com/yThiagoFS/yThiagoFS/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
+📧 Você pode me enviar uma mensagem via e-mail em thi.ferreira.silva03@gmail.com.
 
-### 📫 Entre em Contato
+🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/thiago-ferreira-602aa1232/) para manter contato e explorar novos horizontes juntos.
 
-<div align="center">
-  <a href="mailto:thi.ferreira.silva03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/thiago-ferreira-602aa1232/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+## 🌌 Vamos Explorar o Futuro Juntos
+
+Se você está tão animado quanto eu para explorar o futuro do desenvolvimento, fique à vontade para me seguir e colaborar em projetos emocionantes. O espaço é o limite! 🚀🌌✨
