@@ -1,11 +1,13 @@
-<div style="background-color: #6E45E2; padding: 20px; text-align: center; border-radius: 10px;">
-  <h1 style="color: #FFFFFF;">Bem-vindo ao meu Perfil GitHub 🚀</h1>
-  <p style="color: #FFFFFF; font-size: 18px;">Olá, viajante do espaço cibernético! 👾 Aqui você encontrará um pouco sobre mim e os projetos que tenho explorado nessa jornada cósmica de desenvolvimento.</p>
+<div align="center" style="background-color: #6E45E2; padding: 20px; text-align: center; border-radius: 10px;">
+  <h1 align="center" style="color: #FFFFFF;">Bem-vindo ao meu Perfil GitHub 🚀</h1>
+  <p align="center" style="color: #FFFFFF; font-size: 18px;">Olá, viajante do espaço cibernético! 👾 Aqui você encontrará um pouco sobre mim e os projetos que tenho explorado nessa jornada cósmica de desenvolvimento.</p>
 </div>
 
 ## 🌌 Sobre Mim
 
+<div align="center">
 Meu nome é Thiago Ferreira e sou um entusiasta da tecnologia com uma paixão por criar coisas incríveis. 👨‍💻 Quando não estou explorando o universo da programação, estou desbravando o vasto cosmos em busca de conhecimento. Acredito que o futuro está nas estrelas, e estou ansioso para contribuir para ele!
+</div>
 
 ## 🖥️ Algumas tecnologias que utilizo:
 
@@ -21,11 +23,13 @@ Meu nome é Thiago Ferreira e sou um entusiasta da tecnologia com uma paixão po
 </p>
 
 ## 📫 Contato
-
+<div align="center">
 📧 Você pode me enviar uma mensagem via e-mail em thi.ferreira.silva03@gmail.com.
+</div>
 
 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/thiago-ferreira-602aa1232/) para manter contato e explorar novos horizontes juntos.
 
 ## 🌌 Vamos Explorar o Futuro Juntos
-
+<div align="center">
 Se você está tão animado quanto eu para explorar o futuro do desenvolvimento, fique à vontade para me seguir e colaborar em projetos emocionantes. O espaço é o limite! 🚀🌌✨
+</div>
