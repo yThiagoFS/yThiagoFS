@@ -34,7 +34,7 @@ Meu nome é Thiago Ferreira e sou um entusiasta da tecnologia com uma paixão po
 📧 Você pode me enviar uma mensagem via e-mail em thi.ferreira.silva03@gmail.com.
 </div>
 <div align="center"> 
-🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/thiago-ferreira-602aa1232/) para manter contato e explorar novos horizontes juntos.
+🔗 Conecte-se comigo no <a style="color: blue;" href="https://www.linkedin.com/in/thiago-ferreira-602aa1232/" target="_blank">Linkedin</a> para manter contato e explorar novos horizontes juntos.
 </div>
 
 <div align="center" style="background-color: #6E45E2; padding: 20px; text-align: center; border-radius: 10px;">
